@@ -1,3 +1,9 @@
+# Spring Config Server Components
+
+The red arrows indicate how this project's build artifacts fit into the Resume-Tailor application architecture
+
+<img src="vadosity-config.drawio.png"></img>
+
 
 to see a configuration without a defined profile:
 
